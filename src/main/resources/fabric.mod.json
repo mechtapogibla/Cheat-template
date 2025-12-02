@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "cheat",
+  "version": "1.7",
+  "icon": "icon.png",
+  "name": "Cheat",
+  "description": "инфа о моде/чит",
+  "authors": [
+    {
+      "name": "TrySekary",
+      "contact": {
+        "discord": "nakaimis"
+      }
+    }
+  ],
+  "license": "GNU General Public License v3.0",
+  "accessWidener": "cheat.accesswidener",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "com.cheat.CheatClient"
+    ]
+  },
+  "contact": {
+    "sources": "https://github.com/mechtapogibla/Cheat-template",
+    "homepage": "https://github.com/mechtapogibla/Cheat-template",
+    "issues": "https://github.com/mechtapogibla/Cheat-template"
+  },
+  "mixins": [
+    "cheat.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "minecraft": "~1.21",
+    "java": ">=21"
+  },
+  "suggests": {
+    "sodium": "*",
+    "exordium": "*",
+    "starlight": "*",
+    "ias": "*",
+    "viafabricplus": "*"
+  }
+}
