@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/Mm2R6qt.jpeg"  alt=""/>
+  <img src="[https://i.imgur.com/Mm2R6qt.jpeg](https://i.pinimg.com/736x/58/d5/55/58d5552839a1e9717624df35664f9123.jpg)"  alt=""/>
 
 RU: 
 Это чистая заготовка просто удобная структура директорий для создание читов.  
